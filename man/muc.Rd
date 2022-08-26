@@ -48,7 +48,7 @@ It can handle both binary and continuous type exposure variables.
 }
 \examples{
 #A simulation with one binary exposure, one continuous covariate,
-one continuous outcome and three continuous mediators.
+#one continuous outcome and three continuous mediators.
 library("mmuc")
 
 #The following package is needed to simulate data and not a requirement to use the `mmuc` package
